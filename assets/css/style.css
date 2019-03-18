@@ -2,7 +2,7 @@
     float: left;
     width: 140px;
     height: 175px;
-    margin: 1em 2em 1em 0em;
+    margin: 1em 1em 1em 0em;
    }
 
    body {
@@ -74,8 +74,7 @@ h4 {
 
 }
 
-.p1 {
-    float: left;
+.row1 {
     word-spacing: 15px;
     font-size: 18px;
     
@@ -93,3 +92,58 @@ h4 {
   display: inline-block;
   font-size: 16px;
 }
+
+
+.hangman {
+  width:225px; 
+  height: 55px;
+  top: 140px;
+  left: 47px;
+  position: absolute;
+
+}
+
+.rpg {
+    
+    position: absolute;
+    width: 225px; 
+    height: 55px;
+    top: 140px;
+    left: 47px;
+  
+  }
+
+  .triv {
+    
+    position: absolute;
+    width:225px; 
+    height: 55px;
+    left: 47px;
+    bottom: 35px;
+  }
+
+  .rut {
+    position: absolute;
+    left: 47px;
+    width: 225px; 
+    height: 60px;
+    bottom: 35px;
+    vertical-align: top;
+    line-height: 20px;
+ 
+}
+
+
+.rock {
+
+    position: absolute;
+    width:225px; 
+    height: 55px;
+    bottom: 50px;
+    left: 47px;
+    vertical-align: text-top;
+    line-height: 17px;
+
+
+}
+
